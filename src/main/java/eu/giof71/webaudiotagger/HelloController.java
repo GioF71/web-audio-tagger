@@ -1,4 +1,4 @@
-package eu.giof71.tagger;
+package eu.giof71.webaudiotagger;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
